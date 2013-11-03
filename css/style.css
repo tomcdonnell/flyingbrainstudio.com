@@ -23,6 +23,11 @@ p
    color: white;
 }
 
+p a
+{
+   color: white;
+}
+
 div#main-content-div
 {
    display: inline-block;
