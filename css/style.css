@@ -1,0 +1,32 @@
+*
+{
+   border: 0;
+   margin: 0;
+   padding: 0;
+}
+
+body
+{
+   text-align: center;
+}
+
+h1
+{
+   background: black;
+   padding-bottom: 20px;
+}
+
+p
+{
+   background: black;
+   padding: 30px;
+   color: white;
+}
+
+div#main-content-div
+{
+   display: inline-block;
+   width: 900px;
+   margin-left: auto;
+   margin-right: auto;
+}
